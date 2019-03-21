@@ -1,2 +1,0 @@
-# realBudgety
-Created with CodeSandbox
